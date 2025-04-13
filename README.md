@@ -1,9 +1,15 @@
-### Upload File Using AWS IN Nodejs
+### Upload File to AWS Using Node.js
 
-#### Clone The Repository
+#### Clone the Repository
 ```
 git clone https://github.com/Ho3einTahan/UploadFileAWS
 ```
 
-##### Thanks For Watching
+#### Run the App:
+```
+node aws.js
+```
+
+
+##### Thanks for Watching!
 ##### © 2025, All rights reserved. Developed by Ho3ein Tahan
